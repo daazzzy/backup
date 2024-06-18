@@ -1,0 +1,12 @@
+2024/06/11-18:41:28.342 2ecc Reusing MANIFEST /home/dazy/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/06/11-18:41:28.343 2ecc Recovering log #4
+2024/06/11-18:41:28.343 2ecc Reusing old log /home/dazy/.config/discord/Local Storage/leveldb/000004.log 
+2024/06/11-18:43:03.550 2ece Level-0 table #8: started
+2024/06/11-18:43:03.561 2ece Level-0 table #8: 2378357 bytes OK
+2024/06/11-18:43:03.563 2ece Delete type=0 #4
+2024/06/11-18:47:03.226 2ecc Level-0 table #10: started
+2024/06/11-18:47:03.251 2ecc Level-0 table #10: 3133225 bytes OK
+2024/06/11-18:47:03.253 2ecc Delete type=0 #7
+2024/06/11-19:00:45.311 2ece Level-0 table #12: started
+2024/06/11-19:00:45.318 2ece Level-0 table #12: 49324 bytes OK
+2024/06/11-19:00:45.323 2ece Delete type=0 #9

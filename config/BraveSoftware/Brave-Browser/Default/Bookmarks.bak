@@ -1,0 +1,719 @@
+{
+   "checksum": "c3a4c35193c71a90cc143600241e5776",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13347151440000000",
+            "date_last_used": "0",
+            "guid": "dbe5ebc5-3ed1-417f-b2ee-3d4d5705c37f",
+            "id": "5",
+            "name": "Getting Started",
+            "type": "url",
+            "url": "https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "4cf983b2-7416-4f16-88ca-ceef0bc623d4",
+            "id": "6",
+            "name": "This Giant Molten Chocolate Cake Will Become Your New Religion",
+            "type": "url",
+            "url": "https://www.buzzfeed.com/pierceabernathy/this-giant-molten-chocolate-cake-will-become-your-new?utm_term=.lelBbnnMn#.pqGAYooNo"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "eeae5c15-d636-4abd-a699-793198fd97a5",
+            "id": "7",
+            "name": "Slajd 1",
+            "type": "url",
+            "url": "http://www.zamek.krapkowice.pl/geografia/prezentacje/biomy/tundra.pdf"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "7b169bec-db01-4932-97d0-0d5a8e28870f",
+            "id": "8",
+            "name": "PromoDJ",
+            "type": "url",
+            "url": "http://promodj.com/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "ee3475fa-5787-482d-9de0-c7a95445310c",
+            "id": "9",
+            "name": "Gmail",
+            "type": "url",
+            "url": "https://accounts.google.com/b/0/AddMailService"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "862182bf-53b6-4d20-8a64-97436cc907c3",
+            "id": "10",
+            "name": "YouTube",
+            "type": "url",
+            "url": "https://youtube.com/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "0c45ce62-7cc2-45f4-a60a-72ce2efb0566",
+            "id": "11",
+            "name": "Žemėlapiai",
+            "type": "url",
+            "url": "https://maps.google.com/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "86419fa1-fa86-421a-a124-1cdca1e9c080",
+            "id": "12",
+            "name": "Tools of the data engineer | Python",
+            "type": "url",
+            "url": "https://campus.datacamp.com/courses/introduction-to-data-engineering/introduction-to-data-engineering?ex=5"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "98be8124-0cd2-41ad-8634-95f93d06e1d0",
+            "id": "13",
+            "name": "HARDTOP KIETĄJĮ STOGAS MAZDA MX-5 1989-2005 | XDALYS.LT",
+            "type": "url",
+            "url": "https://www.xdalys.lt/lt/hardtop-kietaji-stogas-mazda-mx-5-1989-2005_stogai"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "177f4fc4-46e4-4b70-a8d0-6f36369ca925",
+            "id": "14",
+            "name": "Zjednoczenie Włoch i Niemiec – Lekcje historii – krótko, prosto, konkretnie",
+            "type": "url",
+            "url": "https://lekcjehistorii.pl/index.php/2017/01/05/zjednoczenie-wloch-i-niemiec/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "ab22a488-ca19-4444-b2ba-06c16eb926f6",
+            "id": "15",
+            "name": "1849",
+            "type": "url",
+            "url": "https://lt.wikipedia.org/wiki/Pr%C5%ABsijos_istorija"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "b460118a-5d80-492e-968e-821a75b5aa1a",
+            "id": "16",
+            "name": "04-01",
+            "type": "url",
+            "url": "https://romek.info/baza/04-01.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "dd005b3a-1acb-4908-acc7-1216da01b361",
+            "id": "17",
+            "name": "Romantiška Lietuvos istorija tragedijoje “Skirgaila“ | Gimtoji kalba",
+            "type": "url",
+            "url": "https://mokovas.wordpress.com/2011/05/11/romantiska-lietuvos-istorija-tragedijoje-skirgaila/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "10f21896-cc2d-434b-a3bf-c85e6a6c6dc1",
+            "id": "18",
+            "name": "Vincas Krėvė. Drama - tragedija „Skirgaila“ | Edukamentas",
+            "type": "url",
+            "url": "https://www.edukamentas.lt/wiki/literatura/vincas-kreve-skirgaila/#gsc.tab=0"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "368cbf7d-68d8-4f4b-967e-e0bc48239881",
+            "id": "19",
+            "name": "V. Krėvės-Mickevičiaus kūryba | Gimtoji kalba",
+            "type": "url",
+            "url": "https://mokovas.wordpress.com/2015/05/30/v-kreves-mickeviciaus-kuryba/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "09b14059-ebd2-4996-9c4f-1fdd6b3f2866",
+            "id": "20",
+            "name": "NVD - Search and Statistics",
+            "type": "url",
+            "url": "https://nvd.nist.gov/vuln/search"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "58ef7885-83cc-4a4b-9337-021811282e6b",
+            "id": "21",
+            "name": "Exploit Database - Exploits for Penetration Testers, Researchers, and Ethical Hackers",
+            "type": "url",
+            "url": "https://www.exploit-db.com/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "d2b0426e-efe7-464b-90fe-272a260fbf4a",
+            "id": "22",
+            "name": "CVE - CVE",
+            "type": "url",
+            "url": "https://cve.mitre.org/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "d09913e3-8b66-4891-999b-952a91b37958",
+            "id": "23",
+            "name": "Фильм Киногид извращенца: Идеология (2012) смотреть онлайн в HD 720-1080 хорошем качестве бесплатно",
+            "type": "url",
+            "url": "https://new.lordfilm.lu/9581-film-kinogid-izvraschenca-ideologija-2012.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "340763e6-786a-41cd-a5f5-b1e9ce2b6217",
+            "id": "24",
+            "name": "Paieška - jack",
+            "type": "url",
+            "url": "https://elektromarkt.lt/paieska/jack"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "729af774-3730-4e84-957e-2f1856591ed0",
+            "id": "25",
+            "name": "Смотреть фильм Проклятый путь онлайн бесплатно в хорошем качестве",
+            "type": "url",
+            "url": "https://hdrezka.website/films/thriller/6433-proklyatyy-put-2002.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "e66e409c-2716-4814-9a3e-613d537617ac",
+            "id": "26",
+            "name": "Смотреть фильм Спилберг онлайн бесплатно в хорошем качестве",
+            "type": "url",
+            "url": "https://hdrezka.website/films/documentary/25884-spilberg-2017.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "0c917cf9-cb06-4924-8afe-6e34cfd8b096",
+            "id": "27",
+            "name": "Flat for rent, Vilniuje Senamiestyje Gėlių g., 2 rooms flat for rent Real Estate ads - Aruodas.lt",
+            "type": "url",
+            "url": "https://m.en.aruodas.lt/butu-nuoma-vilniuje-senamiestyje-geliu-g-nuomojamas-jaukus-ir-tvarkingas-15-kambario-4-1111833/?return_url=%2Fbutu-nuoma%2Fvilniuje%2Fsenamiestyje%2F%3Fchange_region%3D1%26FOrder%3DPrice%26obj%3D4%26FRegion%3D461%26FDistrict%3D1%26FQuartal%3D16&photos=1&index=0"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "507411c7-6ca9-4822-a120-1a1a1c9f698b",
+            "id": "28",
+            "name": "Смотреть фильм Царь онлайн бесплатно в хорошем качестве",
+            "type": "url",
+            "url": "https://hdrezka.website/films/drama/15351-car-2009.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "273bbaf3-ec04-4551-a332-05a00004f83e",
+            "id": "29",
+            "name": "TSW TSW, lengvojo lydinio, R17 | A9821625",
+            "type": "url",
+            "url": "https://autoplius.lt/skelbimai/tsw-tsw-lengvojo-lydinio-r17-9821625.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "71a5a7e1-8f77-4c56-aa36-676a23b97d7b",
+            "id": "30",
+            "name": "Borbet, lengvojo lydinio, R17 | A16343011",
+            "type": "url",
+            "url": "https://autoplius.lt/skelbimai/borbet-lengvojo-lydinio-r17-16343011.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "f6f22379-3b7a-4699-ae5f-d9771c2c0899",
+            "id": "31",
+            "name": "MAM ORIGINALŪS NR.250, lengvojo lydinio, R17 | A17061361",
+            "type": "url",
+            "url": "https://autoplius.lt/skelbimai/mam-originalus-nr-250-lengvojo-lydinio-r17-17061361.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "69670eb7-d0f1-4905-8030-7c677066cf62",
+            "id": "32",
+            "name": "UGREEN AV102 cable 2xRCA jack socket 3.5mm - 1m",
+            "type": "url",
+            "url": "https://www.anodas.lt/en/ugreen-av102-cable-2xrca-jack-socket-3-5mm-1m"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "58c1a35f-f413-42ed-bb23-70a1bcc3f964",
+            "id": "33",
+            "name": "Różne oblicza heroizmu. Na podstawie podanych fragmentów \"Nad Niemnem\" Elizy Orzeszkowej wyjaśnij symbolikę dwóch mogił. | cojawiem.pl",
+            "type": "url",
+            "url": "https://cojawiem.pl/pl/articles/9093/rozne-oblicza-heroizmu.-na-podstawie-podanych-fragmentow-nad-niemnem-elizy-orzeszkowej-wyjasnij-symbolike-dwoch-mogi%C5%82./"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "fa554d15-6b23-4193-88a5-c8f96522c943",
+            "id": "34",
+            "name": "Creating a Low Poly Medieval House in Blender: Part 1",
+            "type": "url",
+            "url": "https://cgi.tutsplus.com/tutorials/creating-a-low-poly-medieval-house-in-blender-part-1--cms-24002"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "dc4184fc-c532-41c7-9505-df5a4bd5b365",
+            "id": "35",
+            "name": "Where to buy snus? - SnusDirect.com",
+            "type": "url",
+            "url": "https://www.snusdirect.com/articles/where-to-buy-snus"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "3e4edc3a-8cc9-47e7-b56c-cca3c562b06f",
+            "id": "36",
+            "name": "ASFERYCZNE lustro HONDA Prelude 1996-2002 2001 1459275797/44160900 za 59,90 zł z WARSZAWA - Allegro.pl - (11901467547)",
+            "type": "url",
+            "url": "https://allegro.pl/oferta/asferyczne-lustro-honda-prelude-1996-2002-2001-11901467547"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "9e555ea7-6eac-4dde-be14-3ae35fa062ab",
+            "id": "37",
+            "name": "car mod",
+            "type": "url",
+            "url": "https://scrat-tech.fr/modding-gta-v/tutoriels-modding-gta-5/creer-vehicule-gta-v-tuto-complet/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "1d75286d-917c-418e-9ea4-bdb87ac9363b",
+            "id": "38",
+            "name": "Create a vehicle for GTA V | FULL DETAILED TUTORIAL - Game68240",
+            "type": "url",
+            "url": "https://scrat--tech-fr.translate.goog/modding-gta-v/tutoriels-modding-gta-5/creer-vehicule-gta-v-tuto-complet/?_x_tr_sl=auto&_x_tr_tl=en&_x_tr_hl=en&_x_tr_pto=wapp"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "d4e1ce36-f8f0-483c-8930-396c5febd4cd",
+            "id": "39",
+            "name": "COASTSIDE.LT - Paraiška į gaujos lyderio poziciją",
+            "type": "url",
+            "url": "https://docs.google.com/forms/d/e/1FAIpQLSfoifvRcTwyw9Uzmgq-pIL-SLWkF0cnHW4aIsmZsR6VWnHm0w/viewform"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "3250b3bd-a6cd-41d6-a7e1-3c1e3e2a70cd",
+            "id": "40",
+            "name": "Живите в радости - Google Search",
+            "type": "url",
+            "url": "https://www.google.com/search?q=%D0%96%D0%B8%D0%B2%D0%B8%D1%82%D0%B5+%D0%B2+%D1%80%D0%B0%D0%B4%D0%BE%D1%81%D1%82%D0%B8&sourceid=chrome&ie=UTF-8"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "f81b7e89-9073-4dfb-ae91-15d9f7f9f991",
+            "id": "41",
+            "name": "ВЕЧЕРиНОЧКА • MONATIK, Vera Brezhneva",
+            "type": "url",
+            "url": "https://open.spotify.com/playlist/37T1pVkAPSXeDno0tTBnj1"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "ce5fe9f9-c213-4aa8-b1b9-1a83ce647f48",
+            "id": "42",
+            "name": "Honda Prelude dalimis. Variklis salonas parduota 1997 m., | A12447051",
+            "type": "url",
+            "url": "https://autoplius.lt/skelbimai/honda-prelude-dalimis-variklis-salonas-parduota-12447051.html"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "dad726dc-f515-4998-a1c0-ebacffc31fc3",
+            "id": "43",
+            "name": "EFT | Ammo and Armor Charts",
+            "type": "url",
+            "url": "https://eft-ammo.com/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "28d0902c-8758-4508-b410-c723addc65fe",
+            "id": "44",
+            "name": "Untitled document - Google Docs",
+            "type": "url",
+            "url": "https://docs.google.com/document/d/1GxHciJkpjJqkDfTAb-wDAYgY6CHSNzZ2C8cuw9QtUwQ/edit"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "1423ddc8-caa7-441a-a198-fbc4bd7c50c6",
+            "id": "45",
+            "name": "Foundations | The Odin Project",
+            "type": "url",
+            "url": "https://www.theodinproject.com/paths/foundations/courses/foundations"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "3bdfd4cf-8b89-4ca4-96b4-49acc2553f4a",
+            "id": "46",
+            "name": "Лучшие исторические фильмы 2022 года - список лучших фильмов",
+            "type": "url",
+            "url": "https://www.film.ru/compilation/luchshie-istoricheskie-filmy-2022-goda"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "678e1ccc-c552-405b-b63d-00f809ba28a2",
+            "id": "47",
+            "name": "Naujas Butas Pilaitėje Prie Ežero su parkingu - Trumpam.lt - Trumpalaikės nuomos skelbimų portalas. Nakvynės paieška Lietuvoje",
+            "type": "url",
+            "url": "https://www.trumpam.lt/LT/object/naujas-butas-pilaiteje-prie-ezero-su-parkingu/5676/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "8b2f1523-ecd8-4712-b397-a7ba73a154d7",
+            "id": "48",
+            "name": "Kak's Enemy Cooldowns | Wago.io",
+            "type": "url",
+            "url": "https://wago.io/Kc3XaAIHi"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "8d183772-760f-4e5f-ab10-82c6deb44c46",
+            "id": "49",
+            "name": "bash.pdf",
+            "type": "url",
+            "url": "https://www.gnu.org/software/bash/manual/bash.pdf"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "768c76c3-d264-4a7d-8cc5-17155597327e",
+            "id": "50",
+            "name": "How to make your own penetration testing lab | Infosec Resources",
+            "type": "url",
+            "url": "https://resources.infosecinstitute.com/topic/how-to-make-your-own-penetration-testing-lab/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "42e3c9ab-3777-47a5-9c7f-e085e53480d6",
+            "id": "51",
+            "name": "EN-Hardware Hacking - Have Fun While Voiding Your Warranty (2004).pdf",
+            "type": "url",
+            "url": "https://repo.zenk-security.com/Magazine%20E-book/EN-Hardware%20Hacking%20-%20Have%20Fun%20While%20Voiding%20Your%20Warranty%20(2004).pdf"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "126f6d7a-f574-420a-a9f0-1deb88039371",
+            "id": "52",
+            "name": "CAROUSEL SCROLL",
+            "type": "url",
+            "url": "https://github.com/catalinmiron/react-native-movie-2.0-carousel/blob/master/App.js"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "a14ad010-b87c-4949-a37a-001534e021f3",
+            "id": "53",
+            "name": "HackNotes : Linux and Unix Security Portable Reference",
+            "type": "url",
+            "url": "https://doc.lagout.org/security/McGraw.Hill.HackNotes.Linux.and.Unix.Security.Portable.Reference.eBook-DDU.pdf"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "8b890b1c-9ba7-4ef1-b6f3-2eaa85753dbd",
+            "id": "54",
+            "name": "linuxsec.pdf",
+            "type": "url",
+            "url": "https://linux-training.be/linuxsec.pdf"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "a8aca17e-ab73-4843-ad8d-e7a1c4eebffc",
+            "id": "55",
+            "name": "books-1/The Design and Implementation of the FreeBSD Operating System (2nd Edition).pdf at master · iceqp/books-1 · GitHub",
+            "type": "url",
+            "url": "https://github.com/iceqp/books-1/blob/master/The%20Design%20and%20Implementation%20of%20the%20FreeBSD%20Operating%20System%20(2nd%20Edition).pdf"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "69616d0e-8751-47d8-9391-dace24fba7bf",
+            "id": "56",
+            "name": "PW Portal Kandydata",
+            "type": "url",
+            "url": "https://www.portalkandydata.pw.edu.pl/"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "0e99f34b-fd10-4e86-a6f4-5ae462cd6f46",
+            "id": "57",
+            "name": "ChatGPT",
+            "type": "url",
+            "url": "https://chat.openai.com/?model=text-davinci-002-render-sha"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "3fa825a9-68c8-4c27-b54f-51e13e62b759",
+            "id": "58",
+            "name": "Fork jayo78/java-console-chat",
+            "type": "url",
+            "url": "https://github.com/jayo78/java-console-chat"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "670c6983-0ea0-4861-9a4d-26963afa3a1e",
+            "id": "59",
+            "name": "prelude man",
+            "type": "url",
+            "url": "https://www.manualslib.com/manual/466814/Honda-Prelude.html?page=2#manual"
+         }, {
+            "date_added": "13347151450000000",
+            "date_last_used": "0",
+            "guid": "2060f7ca-fba2-4e77-8b6b-76dee2345228",
+            "id": "60",
+            "name": "Смотреть фильм С Богами: Два мира / Прогулка с Богами: Два мира онлайн бесплатно в хорошем качестве",
+            "type": "url",
+            "url": "http://kinopub.me/films/drama/27447-s-bogami-dva-mira-2017.html"
+         }, {
+            "date_added": "13357424078000000",
+            "date_last_used": "0",
+            "guid": "a150636a-5fce-4eab-865c-317d0b412b21",
+            "id": "61",
+            "name": "StartFM 94.2",
+            "type": "url",
+            "url": "https://startfm.lt/"
+         }, {
+            "date_added": "13358436705000000",
+            "date_last_used": "0",
+            "guid": "675bd1f8-f871-4e66-abcc-838c3802aa8b",
+            "id": "62",
+            "name": "Z-Library Project - Electronic library Z. Download books free",
+            "type": "url",
+            "url": "https://z-lib.id/"
+         }, {
+            "date_added": "13358436788000000",
+            "date_last_used": "0",
+            "guid": "99ef9e27-32e3-4d9e-8bf1-ecc5faed617d",
+            "id": "63",
+            "name": "Sci-Hub: article not found",
+            "type": "url",
+            "url": "https://sci-hub.se/"
+         }, {
+            "date_added": "13358436793000000",
+            "date_last_used": "0",
+            "guid": "64afe975-12b9-4dbf-a904-dd263806f44a",
+            "id": "64",
+            "name": "97 Things Every Information Security Professional Should Know - Z-Library",
+            "type": "url",
+            "url": "https://z-lib.id/book/33008199-97-things-every-information-security-professional"
+         }, {
+            "date_added": "13358863003000000",
+            "date_last_used": "0",
+            "guid": "2c611b2a-9955-4526-9d8d-a2493f56c1a1",
+            "id": "65",
+            "name": "Machine Learning for Traffic Analysis: A Review - 1-s2.0-S1877050920305494-main.pdf",
+            "type": "url",
+            "url": "https://pdf.sciencedirectassets.com/280203/1-s2.0-S1877050920X00081/1-s2.0-S1877050920305494/main.pdf?X-Amz-Security-Token=IQoJb3JpZ2luX2VjELv%2F%2F%2F%2F%2F%2F%2F%2F%2F%2FwEaCXVzLWVhc3QtMSJGMEQCICa%2Fk2Fv66j31%2FnD896BRBZm1pA%2Fxks%2FYcMAE%2BfnJqJ1AiBqiLKW0LP5wisw5n9IM6Wtxs7qsFSFNIpRqW%2BDZiDq2SqzBQgTEAUaDDA1OTAwMzU0Njg2NSIM0ppxJsrzUpqdax4oKpAFULQH1gltzkd5iv8crY87sDDRaS4488y%2BMTMYS1Ve7tSWOrP4KTDT%2FJK9vgk8TJJk635OSew9wlyksrJt6P%2FSxLGAc%2BMZy52SxlJaab%2FjbumvEmwMr4i5ppsMX2AyQDA%2FIB2f%2Bn4o8hJ3yr7CUgbQ3f7LnA3RntUIMvskFbOVoIs9E%2FfArIabNCEeQjZqECJR7ljlYo5UlnkRSrceyF96MH4EZt0AyVUHVS1znFf8kcdcbUbJl33JbvouJtMBUVIgDmOkl50XwuTz8PtR3mQO4RtbY498E2Ry5%2B5BY%2B2Ued97EwORYcsYpLPyzksZF2HyHiq9tYkQ2YdclSSrH0ANHVGoYDRV%2FXHDLpmOmySu9KDetftMbe%2BvSlde5uQPr%2BUf8%2FXDaQSnHq%2FMSU51fe8EQ7ihrM%2FCFy0dAKl4gU0Gbt87Y7R6a7lbw8Y5yz6BcGw9ddOGIGrwiv%2B%2Ftz3%2BxwzcGBz7WHNctT6VTLOvN9G2mtq%2Bq6MsmMkd4fuws0JL5ypp0QTGlgq%2BEWvzuR6aHD96r1aOgdT%2BnicfsZc7L7Z14qBWCWMRJOqgwp793k8B5TZv94NiAEMw9YWiYec%2FRon%2FzuDB8eJWpaownAQnOjTMRC46eeJn%2Ffc480KON4i%2BjSAz1wTTHOiFSswzyZGFeIvvpJPt2pn3vJaWROyV1HaxZLd%2FN9y4duSu8cRp1b9FzBRTHPpL%2BFPZfmKjDf0V9dkojLo2lQUraZlXEU6y%2Bh8UsgGDKW1fSv0shntFQ04ZnaZUXUqLW66gyFlAeWdvNgE1ywFS7BYYyJlHjVGYB0zm0V087yqj6bHc9HCiMH5IienADB49VTjVmNbhqJf%2FXMN6IqEksm%2Bxahnf7UsKeLZhkJswo%2BS9sQY6sgFjHltIa%2BuigT2M2da%2F2khKjSDHjV48ZNUUvuduXreWA0LmSG9rqlNaKgjuskSFmLrrAZIrIlR3h%2ByF4aGimAmv7KZJNcI6bQSbwssjU2MdGkz5JemQIhjaolbSmpTvU24ERTU%2BVqdFNAVrysJ5caEjyRR6Ps9uR94wIoJXe99T5cxEWcBCA7ZTI6VPN8EwioKdqmyW2WaR6BAXNiH9iwJ7aRU3GBH3IEUFs2WawP2jYH3e&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Date=20240429T111621Z&X-Amz-SignedHeaders=host&X-Amz-Expires=300&X-Amz-Credential=ASIAQ3PHCVTY7NWH4Z73%2F20240429%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Signature=087bdb91e796fc6de30a9a7eed746fed9d1eca6319da2df30979cf23757af1eb&hash=0ef17e10ce9e804de498e4bba22c6509bd7e3f6752eaf80911be6a5634ebd0a8&host=68042c943591013ac2b2430a89b270f6af2c76d8dfd086a07176afe7c76c2c61&pii=S1877050920305494&tid=spdf-8bdf366b-76c5-424f-b09a-e5b9ea63249a&sid=8c276ec613869447b10af85027e92eb70fecgxrqb&type=client&tsoh=d3d3LnNjaWVuY2VkaXJlY3QuY29t&ua=16125d5404050b525255&rr=87bee1236ae2bc19&cc=lt"
+         }, {
+            "date_added": "13359991970000000",
+            "date_last_used": "0",
+            "guid": "b1684d4e-a26e-4dc1-a945-f1c5d65f198e",
+            "id": "66",
+            "name": "LENOVO THINKPAD T14S G3 Octal Ryzen 7 Pro 6850U, 32GB, 512GB SSD, M.2, 1920 x 1200 WUXGA, No OS, Black, Be Klaviaturos - IT Supply",
+            "type": "url",
+            "url": "https://itsupply.lt/kompiuteris/lenovo-thinkpad-t14s-g3-octal-ryzen-7-pro-6850u-32gb-512gb-ssd-m-2-1920-x-1200-wuxga-no-os-black-be-klaviaturos/"
+         }, {
+            "date_added": "13360155582000000",
+            "date_last_used": "0",
+            "guid": "0c5a2877-8cfe-4913-a50e-2f7818876510",
+            "id": "67",
+            "name": "reactjs - Error 403 forbidden when using React Router with Apache - Stack Overflow",
+            "type": "url",
+            "url": "https://stackoverflow.com/questions/66330591/error-403-forbidden-when-using-react-router-with-apache"
+         }, {
+            "children": [ {
+               "children": [ {
+                  "date_added": "13347151440000000",
+                  "date_last_used": "0",
+                  "guid": "20747d3d-69bd-4fa5-8161-26bc3e039fa4",
+                  "id": "70",
+                  "name": "Get Help",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/products/firefox"
+               }, {
+                  "date_added": "13347151440000000",
+                  "date_last_used": "0",
+                  "guid": "b1c4892a-55e9-43fa-8c79-2cc6ff34477d",
+                  "id": "71",
+                  "name": "Customize Firefox",
+                  "type": "url",
+                  "url": "https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize"
+               }, {
+                  "date_added": "13347151440000000",
+                  "date_last_used": "0",
+                  "guid": "f23d38cb-d59e-4841-9a26-ce61403ad22e",
+                  "id": "72",
+                  "name": "Get Involved",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/contribute/"
+               }, {
+                  "date_added": "13347151440000000",
+                  "date_last_used": "0",
+                  "guid": "9253d54d-5247-4636-93af-b60280ce7bb9",
+                  "id": "73",
+                  "name": "About Us",
+                  "type": "url",
+                  "url": "https://www.mozilla.org/about/"
+               } ],
+               "date_added": "13361883988065013",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b0d7fc72-b7b2-4f36-85b5-825d5dd9d892",
+               "id": "69",
+               "name": "Mozilla Firefox",
+               "type": "folder"
+            }, {
+               "children": [ {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "0668d44f-097e-4d01-9573-9f449b049772",
+                  "id": "75",
+                  "name": "Get-rich-quick scheme - Wikipedia",
+                  "type": "url",
+                  "url": "https://en.wikipedia.org/wiki/Get-rich-quick_scheme#Online_schemes"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "1a240fcb-14fa-4aa6-93c8-c22568085b98",
+                  "id": "76",
+                  "name": "Copy of Regal Men's Barber Shop Price List Template | PosterMyWall",
+                  "type": "url",
+                  "url": "https://www.postermywall.com/index.php/posterbuilder/load/891199c171bb5aada60095a8bde8340f#.W6EU7c4zaUk"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "c6d7b2dc-d4ca-40eb-8e85-d98aa894b097",
+                  "id": "77",
+                  "name": "networking - What is the state of art on implementing a p2p message-broadcast network? - Stack Overflow",
+                  "type": "url",
+                  "url": "https://stackoverflow.com/questions/41910804/what-is-the-state-of-art-on-implementing-a-p2p-message-broadcast-network"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "a973a3d5-1650-4542-8a4b-f20ea690a409",
+                  "id": "78",
+                  "name": "How to Run Bash Script Using HTML Button in The Browser ?",
+                  "type": "url",
+                  "url": "https://sysadminote.com/how-to-run-bash-script-using-html-button-in-the-browser/"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "15d5a860-2c4e-4edb-b210-6592992d172e",
+                  "id": "79",
+                  "name": "Андрей Викторович Столяров: сайт автора",
+                  "type": "url",
+                  "url": "http://stolyarov.info/"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "edb0d9c1-f15e-45ce-b863-5a01b8ba3026",
+                  "id": "80",
+                  "name": "Šumsko sodyba | Plotai.lt",
+                  "type": "url",
+                  "url": "http://www.plotai.lt/sodybos/3103-sumsko-sodyba.html"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "08b81a17-7b46-4926-950b-316271fe749f",
+                  "id": "81",
+                  "name": "Pokalbiai rimtomis temomis. Dokumentinis filmas - Krikščioniški filmai",
+                  "type": "url",
+                  "url": "https://www.krikscioniskifilmai.lt/pokalbiai-rimtomis-temomis-dokumentinis-filmas/"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "1dbc435f-ce72-43e5-8c68-93946d010c1b",
+                  "id": "82",
+                  "name": "Kaip rašyti samprotaujamąjį rašinį? - Uždarbis.lt",
+                  "type": "url",
+                  "url": "https://uzdarbis.lt/t309094/kaip-rasyti-samprotaujamaji-rasini/"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "a14353ed-6f2c-458d-bd76-cfe52b872e80",
+                  "id": "83",
+                  "name": "Stovas kolonėlei Master Audio S39B | Muzi.lt - Muzikos prekės",
+                  "type": "url",
+                  "url": "https://www.muzi.lt/lt/7311-stovas-kolonelei-master-audio-s39b.html"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "e44159b9-b7c2-4513-9f88-4ac979a1a0a6",
+                  "id": "84",
+                  "name": "New tab",
+                  "type": "url",
+                  "url": "chrome-native://newtab/"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "ce5d069a-9a14-4091-b84c-7325b1c817c8",
+                  "id": "85",
+                  "name": "",
+                  "type": "url",
+                  "url": "https://www.lnb.lt/media/public/leidiniai/elektroniniai/numatomi-leidiniai/2020_02.pdf"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "2d1ca5c7-9800-420a-805a-7df653102f64",
+                  "id": "86",
+                  "name": "#🎀│дресс-код",
+                  "type": "url",
+                  "url": "https://discord.com/channels/709297593728892928/778211469573357578"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "a29980c5-673f-47db-b2bf-0dd08812defa",
+                  "id": "87",
+                  "name": "#💬│flood",
+                  "type": "url",
+                  "url": "https://discord.com/channels/709297593728892928/709297595171995666"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "741326b8-6796-4a63-acfb-013cbfd1c426",
+                  "id": "88",
+                  "name": "#📑│правила-сервера",
+                  "type": "url",
+                  "url": "https://discord.com/channels/709297593728892928/709297594635124793"
+               }, {
+                  "date_added": "13347151450000000",
+                  "date_last_used": "0",
+                  "guid": "097ed4ab-8132-49f6-8763-6182b65747b2",
+                  "id": "89",
+                  "name": "#🎀│welcome",
+                  "type": "url",
+                  "url": "https://discord.com/channels/709297593728892928/709297594475610132"
+               } ],
+               "date_added": "13361883988065157",
+               "date_last_used": "0",
+               "date_modified": "0",
+               "guid": "b8cd496e-339f-4ac1-85c3-6fe9b082e81e",
+               "id": "74",
+               "name": "unfiled",
+               "type": "folder"
+            } ],
+            "date_added": "13361883988064954",
+            "date_last_used": "0",
+            "date_modified": "13361883988064954",
+            "guid": "6009bffb-1b49-4bf4-bb02-7476f8b32d48",
+            "id": "68",
+            "name": "Imported From Firefox",
+            "type": "folder"
+         } ],
+         "date_added": "13361883972282934",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "0bc5d13f-2cba-5d74-951f-3f233fe6c908",
+         "id": "1",
+         "name": "Bookmarks",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13361883972282937",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "82b081ec-3dd3-529c-8475-ab6c344590dd",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13361883972282939",
+         "date_last_used": "0",
+         "date_modified": "0",
+         "guid": "4cf2e351-0e85-532b-bb37-df045d8f8d0f",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

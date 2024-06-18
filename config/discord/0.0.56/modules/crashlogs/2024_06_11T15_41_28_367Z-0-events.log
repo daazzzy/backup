@@ -1,0 +1,15 @@
+2024-06-11T15:41:28.380Z 0: 
+
+----------------------------------------------
+2024-06-11T15:41:28.401Z 1: Discord starting: {"releaseChannel":"stable","version":"0.0.56"}, modulepath: /home/dazy/.config/discord/0.0.56/modules
+2024-06-11T15:41:28.407Z 2: ✅ webContents.created web1 ""
+2024-06-11T15:41:28.410Z 3: ✅ window.created win1 "discord"
+2024-06-11T15:41:28.646Z 4: ✅ webContents.did-finish-load web1
+2024-06-11T15:41:42.026Z 5: ✅ webContents.created web2 ""
+2024-06-11T15:41:42.037Z 6: ✅ window.created win2 "Discord"
+2024-06-11T15:41:43.776Z 7: ✅ webContents.did-finish-load web2
+2024-06-11T15:41:43.875Z 8: window.close win1
+2024-06-11T15:41:43.888Z 9: webContents.destroyed web1
+2024-06-11T15:41:43.891Z 10: window.closed win1
+2024-06-11T15:41:45.093Z 11: ✅ webContents.did-finish-load web2
+2024-06-11T16:05:00.282Z 12: before-quit

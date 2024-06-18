@@ -1,0 +1,7 @@
+2024/06/09-14:58:40.942 42d Reusing MANIFEST /home/dazy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/06/09-14:58:40.942 42d Recovering log #3
+2024/06/09-14:58:40.943 42d Reusing old log /home/dazy/.config/BraveSoftware/Brave-Browser/Default/IndexedDB/https_www.reddit.com_0.indexeddb.leveldb/000003.log 
+2024/06/09-14:59:12.952 42e Level-0 table #5: started
+2024/06/09-14:59:12.956 42e Level-0 table #5: 8349 bytes OK
+2024/06/09-14:59:12.959 42e Delete type=0 #3
+2024/06/09-14:59:12.961 42e Manual compaction at level-0 from (begin) .. (end); will stop at (end)

@@ -1,0 +1,15 @@
+2024/06/18-09:39:55.195 4 Reusing MANIFEST /home/dazy/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/MANIFEST-000001
+2024/06/18-09:39:55.210 4 Recovering log #49
+2024/06/18-09:39:55.212 4 Reusing old log /home/dazy/.config/BraveSoftware/Brave-Browser/Default/Local Storage/leveldb/000049.log 
+2024/06/18-09:48:33.525 4 Level-0 table #53: started
+2024/06/18-09:48:33.532 4 Level-0 table #53: 22815 bytes OK
+2024/06/18-09:48:33.538 4 Delete type=0 #49
+2024/06/18-09:48:33.539 4 Compacting 4@0 + 1@1 files
+2024/06/18-09:48:33.558 4 Generated table #54@0: 563 keys, 835363 bytes
+2024/06/18-09:48:33.558 4 Compacted 4@0 + 1@1 files => 835363 bytes
+2024/06/18-09:48:33.560 4 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/06/18-09:48:33.562 4 Delete type=2 #50
+2024/06/18-09:48:33.562 4 Delete type=2 #41
+2024/06/18-09:48:33.562 4 Delete type=2 #47
+2024/06/18-09:48:33.562 4 Delete type=2 #43
+2024/06/18-09:48:33.562 4 Delete type=2 #53
